@@ -1,0 +1,4 @@
+﻿  triangle.c
+c:\users\tae joon\documents\visual studio 2015\projects\prjpart\part1-4\triangle.c(5): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  part1-4.vcxproj -> C:\Users\Tae Joon\Documents\Visual Studio 2015\Projects\prjpart\Debug\part1-4.exe
+  part1-4.vcxproj -> C:\Users\Tae Joon\Documents\Visual Studio 2015\Projects\prjpart\Debug\part1-4.pdb (Full PDB)
